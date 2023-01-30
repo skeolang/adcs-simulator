@@ -1,2 +1,2 @@
 # adcs-simulator
-An small ADCS 
+A small ADCS simulator for a school project
